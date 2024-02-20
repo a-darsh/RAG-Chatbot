@@ -27,4 +27,4 @@ Ensure you have the following installed:
 You can install these with the following command:
 
 ```bash
-pip install streamlit requests beautifulsoup4 pymupdf langchain huggingface_hub docarray
+pip install -r requirements.txt
