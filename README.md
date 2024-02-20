@@ -1,4 +1,4 @@
-# AI Document Chatbot
+# AI-Powered Document Chatbot with RAG & LLM Integration
 
 The AI Document Chatbot is a cutting-edge solution designed to provide real-time answers to questions based on the content of documents from specified URLs or PDFs. Leveraging the power of Streamlit for the web interface, Langchain for conversational AI capabilities, and Llama with Mistral for deep language understanding, this chatbot represents a significant advancement in document-driven knowledge extraction and interaction.
 
